@@ -1,2 +1,2 @@
 # Tutorial
-A tutorial repo.
+A tutorial repository.
